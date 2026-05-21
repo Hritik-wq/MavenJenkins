@@ -9,6 +9,6 @@ public class SampleTest {
 	}
 	@Test
 	public void case11(){
-		System.out.println("Sample Test11");
+		System.out.println("Dinga Dingi");
 	}
 }
